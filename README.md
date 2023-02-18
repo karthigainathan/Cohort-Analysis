@@ -1,9 +1,11 @@
 # Cohort-Analysis
 
-![image](https://user-images.githubusercontent.com/43938345/219872479-16d2a12f-9104-4bf3-85a7-46ad7e57b86a.png)
+![image](https://user-images.githubusercontent.com/43938345/219872519-2b99853a-4295-40de-b44d-c01063988b52.png)
 
 
+# Customer Purchase Count
+This table shows the no. of customers who made the first purchase
 
 
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/43938345/219872538-8031d21d-85b6-4565-82ca-cf2875f65dfd.png">
 
-<img width="710" alt="image" src="https://user-images.githubusercontent.com/43938345/219871283-65e1d206-e045-4632-8254-dd247ac5bf50.png">
