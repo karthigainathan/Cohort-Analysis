@@ -24,7 +24,7 @@ This table shows the percentage of customers who made the first purchase and com
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/43938345/219872710-1b9faa55-7401-468e-b0dd-0eb7bcd77a5d.png">
 
 ## % of New customers and Repeat customers by Year and Month
-This table shows the percentage of new and returning customers each month.
+This table shows the percentage of new and returning customers each month. The trend is clearly visible the number of returning customers making a purchase is gradually increasing, which defines customer have more loyality to the business. In contract the number of new customers is gradually decreasing over the months.
 
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/43938345/219872789-46ec96df-6a36-4a61-8603-8a3d9fe94a8f.png">
 
