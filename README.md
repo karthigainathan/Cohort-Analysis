@@ -1,6 +1,6 @@
 # Cohort-Analysis
 
-![image](https://user-images.githubusercontent.com/43938345/219872519-2b99853a-4295-40de-b44d-c01063988b52.png)
+![image](https://user-images.githubusercontent.com/43938345/219872645-e9523f9e-5a2f-41f5-83b1-49986b5dd5c7.png)
 
 
 # Customer Purchase Count
